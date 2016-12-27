@@ -1,2 +1,8 @@
 # anrdroid-adhoc
-Implementing Ad-hoc network in android devices.
+------------------
+Peer to peer establishment of android devices.
+------------------------------------------------
+Implementaion of AODV (Ad-hoc On Demand Vector) technique.
+----------------------------------------------------------
+Research based project 
+-----------------------
